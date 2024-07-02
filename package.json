@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-js-hw-09-rebuild/",
+    "build": "vite build --base=/github.com/bartoszkucharuk/goit-js-hw-09-rebuild/",
     "preview": "vite preview"
   },
   "devDependencies": {
