@@ -5,14 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/https://github.com/bartoszkucharuk/goit-js-hw-09-rebuild/",
+    "build": "vite build --base=/goit-js-hw-09-rebuild/",
     "preview": "vite preview"
   },
   "devDependencies": {
     "glob": "^8.1.0",
     "vite": "^4.5.2"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Bartosz Kucharuk <bartosz.kucharuk@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "simplelightbox": "^2.14.3",
